@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ASAEL\\Downloads\\3 UNIVERSITY\\CLASSES_TOPICS\\2 ALGORITHMS AND COMPLEX\\Queueimplementationarray\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2997467C-606D-4A52-95C7-549BC161252B}|Queueimplementationarray\\Queueimplementationarray.vcxproj|C:\\Users\\ASAEL\\Downloads\\3 UNIVERSITY\\CLASSES_TOPICS\\2 ALGORITHMS AND COMPLEX\\Queueimplementationarray\\Queueimplementationarray\\QueueApp.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2997467C-606D-4A52-95C7-549BC161252B}|Queueimplementationarray\\Queueimplementationarray.vcxproj|solutionrelative:Queueimplementationarray\\QueueApp.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2997467C-606D-4A52-95C7-549BC161252B}|Queueimplementationarray\\Queueimplementationarray.vcxproj|C:\\Users\\ASAEL\\Downloads\\3 UNIVERSITY\\CLASSES_TOPICS\\2 ALGORITHMS AND COMPLEX\\Queueimplementationarray\\Queueimplementationarray\\Queue.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2997467C-606D-4A52-95C7-549BC161252B}|Queueimplementationarray\\Queueimplementationarray.vcxproj|solutionrelative:Queueimplementationarray\\Queue.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "QueueApp.cpp",
+              "DocumentMoniker": "C:\\Users\\ASAEL\\Downloads\\3 UNIVERSITY\\CLASSES_TOPICS\\2 ALGORITHMS AND COMPLEX\\Queueimplementationarray\\Queueimplementationarray\\QueueApp.cpp",
+              "RelativeDocumentMoniker": "Queueimplementationarray\\QueueApp.cpp",
+              "ToolTip": "C:\\Users\\ASAEL\\Downloads\\3 UNIVERSITY\\CLASSES_TOPICS\\2 ALGORITHMS AND COMPLEX\\Queueimplementationarray\\Queueimplementationarray\\QueueApp.cpp",
+              "RelativeToolTip": "Queueimplementationarray\\QueueApp.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-22T20:27:07.019Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Queue.cpp",
+              "DocumentMoniker": "C:\\Users\\ASAEL\\Downloads\\3 UNIVERSITY\\CLASSES_TOPICS\\2 ALGORITHMS AND COMPLEX\\Queueimplementationarray\\Queueimplementationarray\\Queue.cpp",
+              "RelativeDocumentMoniker": "Queueimplementationarray\\Queue.cpp",
+              "ToolTip": "C:\\Users\\ASAEL\\Downloads\\3 UNIVERSITY\\CLASSES_TOPICS\\2 ALGORITHMS AND COMPLEX\\Queueimplementationarray\\Queueimplementationarray\\Queue.cpp",
+              "RelativeToolTip": "Queueimplementationarray\\Queue.cpp",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAkwFQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-22T20:26:51.068Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
